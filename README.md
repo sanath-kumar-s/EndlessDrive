@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="assets/assets/logo.jpg" width="28"> Endless Drive
+    <img src="Assets/Assets/logo.jpg" width="28"> Endless Drive
 </h1>
 
 <p align="center">
@@ -15,7 +15,9 @@
   <img src="https://img.shields.io/badge/Available%20On-itch.io-red">
 </p>
 
-![Gameplay Screenshot](assets/assets/playingVideo.gif)
+<p align="center">
+  <img src="Assets/Assets/playingVideo.gif" alt="Gameplay Screenshot" width="80%">
+</p>
 
 ---
 
@@ -66,13 +68,13 @@ The control system is intentionally minimal to ensure accessibility and quick le
 
 You can download and play the latest version of the game directly from Itch.io:
 
+
 <p align="center">
-  <a href="https://gds-gamedev.itch.io">
-    <kbd style="background-color: #28a745; color: white; padding: 10px 20px; border-radius: 10px; font-weight: bold; font-size: 1.2em;">
-      &nbsp;&nbsp;&nbsp; PLAY ON ITCH.IO &nbsp;&nbsp;&nbsp;
-    </kbd>
+  <a href="https://gds-gamedev.itch.io/endless-drive">
+    <img src="https://img.shields.io/badge/Download%20on-Itch.io-FA5C5C?logo=itch.io&logoColor=white&style=for-the-badge">
   </a>
 </p>
+
 
 ---
 
